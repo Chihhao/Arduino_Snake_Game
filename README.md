@@ -1,7 +1,7 @@
 # Arduino_Snake_Game (貪食蛇)  
 ## 使用 MAX7219 LED模組  
 ## 成品  
-![image](https://github.com/Chihhao/Arduino_Snake_Game/blob/main/image/1.jpg)  
+![image](https://github.com/Chihhao/Arduino_Snake_Game/blob/main/image/3.png)  
 ## 材料  
 (1) Arduino Nano x 1  
 (2) MAX7219 8x8 LED模組 x 4  
@@ -27,5 +27,5 @@ https://fabianoallex.blogspot.com/2015/10/arduino-snake-game-jogo-da-cobrinha.ht
 
 ## 照片  
 ![image](https://github.com/Chihhao/Arduino_Snake_Game/blob/main/image/2.jpg)  
-![image](https://github.com/Chihhao/Arduino_Snake_Game/blob/main/image/3.png)  
+![image](https://github.com/Chihhao/Arduino_Snake_Game/blob/main/image/1.jpg)  
 ![image](https://github.com/Chihhao/Arduino_Snake_Game/blob/main/image/4.png)  
